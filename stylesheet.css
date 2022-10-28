@@ -29,6 +29,10 @@ a {
     font-family: "Source Code Pro", sans-serif;
 }
 
+.icon-link {
+    text-decoration: none;
+}
+
 .space {
     padding-right: 10px;
 }
